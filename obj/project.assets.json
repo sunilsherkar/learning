@@ -661,11 +661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Core Projects\\learning\\CICD\\CICD.csproj",
+      "projectUniqueName": "D:\\Core Projects\\learning\\CICD.csproj",
       "projectName": "CICD",
-      "projectPath": "D:\\Core Projects\\learning\\CICD\\CICD.csproj",
+      "projectPath": "D:\\Core Projects\\learning\\CICD.csproj",
       "packagesPath": "C:\\Users\\ss56565\\.nuget\\packages\\",
-      "outputPath": "D:\\Core Projects\\learning\\CICD\\obj\\",
+      "outputPath": "D:\\Core Projects\\learning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ss56565\\AppData\\Roaming\\NuGet\\NuGet.Config",
